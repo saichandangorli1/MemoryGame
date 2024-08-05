@@ -7,8 +7,8 @@ const App = () => {
     <div>
       <Memory />
       {/* <Memory2/> */}
-      <footer className="bg-gradient-to-r from-blue-500 to-blue-700 text-white text-center p-4">
-        <p className="font-bold text-2xl">Developed by Saichandan Gorli</p>
+      <footer className="bg-slate-950 text-white text-center p-4">
+        <p className="font-bold text-xl">Developed by Saichandan Gorli</p>
       </footer>
     </div>
   );
